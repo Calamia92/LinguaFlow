@@ -29,8 +29,8 @@ LinguaFlow est une application mobile de traduction simple et efficace, qui perm
     cd linguaflow
 
 3. Créez un fichier .env à la racine du projet et ajoutez vos clés API OpenAI :
-   API_KEY=sk-votre-clé-openai
-   BASE_URL=https://api.openai.com/v1/chat/completions
+   - API_KEY=sk-votre-clé-openai
+   - BASE_URL=https://api.openai.com/v1/chat/completions
 
 4. Lancez l'application sur un émulateur ou un appareil connecté :
    flutter run
