@@ -35,7 +35,7 @@ LinguaFlow est une application mobile de traduction simple et efficace, qui perm
 4. Lancez l'application sur un émulateur ou un appareil connecté :
    flutter run
 
-
+Enjoy 
 
 
 
